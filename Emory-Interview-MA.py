@@ -42,7 +42,7 @@ final_frame.to_csv('A00_dic',index=False)
 
 #3.c It should not change by changing the filenames. Filename does not have ab affect.
 #3.d In general, metadata should not have effect md5sum
-3.e when you compress a file, the compression takes filenames and dates into account. In this case, md5sum should change      
+#3.e when you compress a file, the compression takes filenames and dates into account. In this case, md5sum should change      
 
 ####### Peak detection ############
 
